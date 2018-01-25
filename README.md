@@ -5,6 +5,10 @@ Project demonstrate work with Yandex Translate API with help of Retrofin and mat
 
 Start with Yandex Translate API: https://tech.yandex.com/translate/
 
+CardView tutorial: https://developer.android.com/training/material/lists-cards.html
+Material color selection tool: https://material.io
+Retrofit home: http://square.github.io/retrofit/
+
 
 
 Powered by Yandex.Translate
