@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="translate_request">Text to translate</string>
+</resources>
